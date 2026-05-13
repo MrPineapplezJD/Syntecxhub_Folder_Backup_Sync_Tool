@@ -26,16 +26,16 @@ This project was built to practice:
 
 # ✨ Features
 
-✅ Incremental file synchronization
-✅ Automatic file updates
-✅ Deleted file detection
-✅ ZIP backup creation
-✅ Backup rotation system
-✅ Dry-run preview mode
-✅ Logging support
-✅ Command-line interface (CLI)
-✅ Error handling and recovery
-✅ Preserves original file metadata
+* Incremental file synchronization
+* Automatic file updates
+* Deleted file detection
+* ZIP backup creation
+* Backup rotation system
+* Dry-run preview mode
+* Logging support
+* Command-line interface (CLI)
+* Error handling and recovery
+* Preserves original file metadata
 
 ---
 
